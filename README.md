@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanshi Sugandhi
-- 👀 I’m Proficient in python, django, sql
+- 👀 I’m Proficient in python, django, sql, html/css
 - 📫 Feel free to reach me out priyanshisugandhi28@gmail.com
 
 
